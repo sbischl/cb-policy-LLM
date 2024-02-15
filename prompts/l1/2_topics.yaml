@@ -1,0 +1,20 @@
+|
+Classify sentences from a central bank speech as one of the following categories:
+Monetary if:
+-	The sentence addresses monetary issues (e.g., inflation, price stability, primary mandate, interest rate)
+Fiscal if:
+-	The sentence addresses fiscal issues (e.g., sovereign debt, budget balance, fiscal governance, taxes, pensions)
+Financial if:
+-	The sentence addresses financial issues (e.g., banking supervision, financial instability, credit risks)
+Climate if:
+-	The sentence addresses climate issues (e.g., environmental issues, CO2, climate change, sustainable development goals)
+Macro if:
+-	The sentence addresses macroeconomic issues (e.g., GDP, economic growth, unemployment, productivity, economic outlook)
+International if:
+-	The sentence addresses international economics issues (e.g., trade, exchange rates, capital mobility, tariffs) 
+Other if:
+-	The sentence does not relate to the topics of monetary, fiscal, financial, climate, macro or international economics.
+-	This category should be used as the default category
+
+Reply only with the number of the sentence and the assigned label.
+These are the sentences:

@@ -1,0 +1,7 @@
+|
+Classify excerpts from a central bank speech as one the following categories: "monetary dominance", "monetary-financial coordination", "monetary-fiscal coordination", "financial dominance" or "fiscal dominance" if the speaker suggests the presence thereof. Rely on your knowledge of what those categories mean. Classify in one of the coordination categories if there is no clear hierarchy. When there is no indication of a dominance or coordination relation with regard to fiscal authorities or financial markets classify as "none". 
+  
+Classify each of the excerpts individually. Reply only with the number of the excerpt and the assigned label.
+
+These are the excerpts:
+

@@ -1,0 +1,43 @@
+|
+Classify excerpts from a central banker speech as one of the following categories: 
+-	Classify the excerpts as either financial, monetary, or fiscal dominance when there is a hierarchy between the central bank and another actor. Monetary dominance if the central banker is explicitly or implicitly prescribing a policy to others. Financial or fiscal dominance if the central banker explicitly or implicitly suggests that monetary policy will accommodate other policies.
+-	Classify it as fiscal-monetary coordination or monetary-financial coordination when there is not a clear hierarchy and there is a request to coordinate or cooperate. 
+
+More information:
+“none” if the central bank official:
+-	when the excerpt is ambiguous to the extent that the context cannot be implied
+-	this is also the default category
+
+"monetary dominance" if the central bank official:
+-	emphasizes price stability above other objectives (e.g., inflation target is more important than financial stability or public debt sustainability) 
+-	suggests that governments should pursue prudent fiscal policy (e.g., fiscal consolidation, reduce public debt/deficit)
+-	suggests to raise interest rates despite negative consequences on growth and employment
+-	suggests a rules-based fiscal framework or new fiscal institutions
+  
+“monetary-financial coordination” if the central bank official:
+-	suggests to work together to create more efficient or better functioning financial markets (e.g., more market transparency)
+-	suggests to facilitate liquidity of markets
+-	suggests improving the deposit guarantee funds together with financial institutions
+
+“monetary-fiscal coordination” if the central bank official:
+-	suggest to introduce a policy-mix of monetary and fiscal policy or tighter cooperation regarding fiscal and monetary policy
+-	suggests to provide governments with additional liquidity through loan facilities, accept greater range of securities as collateral for the loans or loans with longer-than-usual maturities.
+-	suggests in liaison with governments to use a combination of monetary easing, fiscal expansion, and targeted credit support.
+-	suggests to ensure effective transmission of monetary policy to public and private spending.
+
+"financial dominance" if the central bank official:
+-	suggests that the central bank should support the financial markets (e.g., provide liquidity support, recapitalize or bail out banks) regardless of inflation
+-	suggests not to tighten the monetary policy stance (e.g. not to raise interest rates) if this threatens financial stability
+-	suggests that financial market stress is making monetary policy more difficult
+-	is concerned about negative feedback effects from the financial markets (e.g. doom loop, contagion)
+-	suggests that the central bank will inject liquidity via non-bank financial intermediaries or repo markets, will bail out or recapitalise banks
+
+"fiscal dominance" if the central bank official:
+-	is accommodating to government policies (e.g., suggests to bring down sovereign bond spreads to help reach sustainable growth).
+-	suggests monetary financing (e.g., financing the government deficit)
+-	suggests to intervene in the sovereign bond market to stabilise it prioritizes government debt sustainability over price stability (e.g. a situation where fiscal policy is not sustainable forcing the central bank to prioritise the government’s solvency above its own objectives)
+ 
+Classify each of the excerpts individually. Reply only with the number of the excerpt and the assigned label.
+
+These are the excerpts:
+

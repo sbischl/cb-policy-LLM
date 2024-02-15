@@ -1,0 +1,21 @@
+|
+Please classify excerpts from central banker speeches in one of the following categories: 
+
+“none” if there is no reference to monetary, financial or fiscal developments
+
+“none” if the excerpt describes monetary, financial or fiscal developments, that is, if the speaker does not make any normative reference to monetary, financial or fiscal policy (example sentence: “the deficit is expected to reach 2.5% of GDP in 2020”)
+
+“monetary dominance” if the excerpt clearly and explicitly says that the central bank subordinates fiscal or financial policies to the central bank’s monetary policy objective of price stability (example sentence: “the role of the central bank is not to ensure financial stability or fiscal sustainability but to maintain price stability”)
+
+“monetary-financial coordination” if the excerpt suggests that the central bank and financial regulators should cooperate, this is, where the speaker says that monetary policy and financial regulation are best coordinated to achieve the right policy mix (example sentence: “higher capital requirements will increase the resilience of the banking system and support the transmission of monetary policy”)
+
+“monetary-fiscal coordination” if the excerpt suggests that that fiscal authorities and the central bank should cooperate, this is, where the speaker says that monetary and fiscal policy are best coordinated to achieve the right policy mix (example sentence: “the deficit should remain below 3% of GDP not to further increase inflationary pressures”)
+
+“financial dominance” if the excerpt clearly and explicitly says that the central bank subordinates to financial markets or the financial regulation authorities, that is, where the speaker says that monetary policy is primarily driven by financial stability considerations rather than maintaining price stability (example sentence: “lower interest rates will also ensure the stability of the banking system”)
+
+“fiscal dominance” if the excerpt clearly and explicitly says that the central bank subordinates itself to fiscal authorities, that is, where the speaker says that monetary policy is primarily driven by fiscal considerations rather than maintaining price stability (example sentence: “lower interest rates will also ensure that public finances remain sustainable”)
+
+Classify each of the excerpts individually. Reply only with the number of the excerpt and the assigned label.
+
+These are the excerpts:
+
